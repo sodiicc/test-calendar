@@ -21,7 +21,7 @@
     "react-available-times": "^1.2.2",
     "react-calendar": "^2.19.2",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
